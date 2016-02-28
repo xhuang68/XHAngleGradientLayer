@@ -2,7 +2,7 @@
 ---
 ![logo](./demo/logo.png)  
 
-**XHAngleGradientLayer** is a **CALayer** implementation of angle gradient. And this is the Swift varsion of the original **[AngleGradientLayer](https://github.com/paiv/AngleGradientLayer)** built by *[paiv](https://github.com/paiv)* in Objective-C. 
+**XHAngleGradientLayer** is a **CALayer** implementation of angle gradient. And this is the Swift version of the original **[AngleGradientLayer](https://github.com/paiv/AngleGradientLayer)** built by *[paiv](https://github.com/paiv)* in Objective-C. 
 
 ##Demo  
 ![demo1](./demo/screenshot1.png)  
